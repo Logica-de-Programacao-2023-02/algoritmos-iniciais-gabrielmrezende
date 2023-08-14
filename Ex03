@@ -1,0 +1,6 @@
+3. Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+
+1: leia N1
+2: leia N2
+3: M = (N1 + N2) / 2 
+4: escreva M
