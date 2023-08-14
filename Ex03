@@ -2,5 +2,5 @@
 
 1: leia N1
 2: leia N2
-3: M = (N1 + N2) / 2 
+3: M = (N1 + N2) / 2
 4: escreva M
