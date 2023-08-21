@@ -1,0 +1,12 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+1: ler lista
+2: lex x
+3: para cada elemento da lista faça:
+4:   se elemnto é igual a x, então:
+5:     escreva Econtrei x
+6:     fim
+7:    Fim-se
+8: fim-para
+9: escreva Não encontei X
+10: fim
