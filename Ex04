@@ -1,0 +1,9 @@
+4. Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número.
+
+1: leia um numero maior que zero
+2: Liste todos os numero de 1 ate o numero digitado 
+3: var fatorial
+4: fatorial = 1
+4: para cada elemento da listas
+  4.1: fatorial = fatorial * numero da lista
+6: escreva fatorial
